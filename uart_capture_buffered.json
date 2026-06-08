@@ -1,0 +1,4760 @@
+[
+{
+    "timestamp": 1780945252.8582883,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012132000012bed80c0c0003000008d4"
+},
+{
+    "timestamp": 1780945252.8583598,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213300001230480c0c005c00000834"
+},
+{
+    "timestamp": 1780945252.8583763,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8583875,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213400001214ac0c0c0003000008de"
+},
+{
+    "timestamp": 1780945252.8583977,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858412,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121350000124f100c0c005c00000898"
+},
+{
+    "timestamp": 1780945252.8584232,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213600001212460c0c0003000008de"
+},
+{
+    "timestamp": 1780945252.8584323,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8584409,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213700001249fa0c0c005c00000898"
+},
+{
+    "timestamp": 1780945252.8584497,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213800001254450c0c0003000008e8"
+},
+{
+    "timestamp": 1780945252.8584702,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8584807,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012139000012596c0c0c005c00000898"
+},
+{
+    "timestamp": 1780945252.8584898,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213a00001252af0c0c0003000008e8"
+},
+{
+    "timestamp": 1780945252.8584986,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858507,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213b00001273a40c0c005c000008fc"
+},
+{
+    "timestamp": 1780945252.8585153,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213c0000120b240c0c0003000008fc"
+},
+{
+    "timestamp": 1780945252.8585281,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cbf782626"
+},
+{
+    "timestamp": 1780945252.8585377,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000c46de1010"
+},
+{
+    "timestamp": 1780945252.8585463,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8585544,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213d000012789a0c0c005c000008fc"
+},
+{
+    "timestamp": 1780945252.8585627,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213e0000120dce0c0c0003000008fc"
+},
+{
+    "timestamp": 1780945252.8585713,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8585846,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213f0000120f740c0c005c00000960"
+},
+{
+    "timestamp": 1780945252.8585944,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012140000012c9080c0c006000000af0"
+},
+{
+    "timestamp": 1780945252.8586023,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012141000012e7f90c0c000300000906"
+},
+{
+    "timestamp": 1780945252.8586102,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858619,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121420000129ecd0c0c005c00000960"
+},
+{
+    "timestamp": 1780945252.8586273,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214300001232ae0c0c00030000091a"
+},
+{
+    "timestamp": 1780945252.8586352,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858648,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214400001295f30c0c005c00000960"
+},
+{
+    "timestamp": 1780945252.8586576,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214500001278b20c0c006000000a8c"
+},
+{
+    "timestamp": 1780945252.8586657,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121460000127d2d0c0c006000000a8c"
+},
+{
+    "timestamp": 1780945252.8586736,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012147000012e8e70c0c000300000924"
+},
+{
+    "timestamp": 1780945252.8586824,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8586907,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214800001276e10c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.858699,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012149000012d1d50c0c006000000af0"
+},
+{
+    "timestamp": 1780945252.8587065,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214a000012fdee0c0c000300000924"
+},
+{
+    "timestamp": 1780945252.8587143,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858722,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214b000012737e0c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.8587298,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214c000012256d0c0c000300000938"
+},
+{
+    "timestamp": 1780945252.8587377,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8587468,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214d00001278400c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.8587618,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214e00001223870c0c000300000938"
+},
+{
+    "timestamp": 1780945252.8587701,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858784,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101214f0000127eaa0c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.8587928,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012150000012db9c0c0c000300000942"
+},
+{
+    "timestamp": 1780945252.8588002,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8588078,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012151000012596c0c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.8588157,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121520000123cb80c0c00030000094c"
+},
+{
+    "timestamp": 1780945252.8588243,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121530000123fcd0c0c00030000094c"
+},
+{
+    "timestamp": 1780945252.8588314,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858839,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215400001257cd0c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.8588462,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215500001287880c0c000300000956"
+},
+{
+    "timestamp": 1780945252.8588533,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cbf782626"
+},
+{
+    "timestamp": 1780945252.858861,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000c46de1010"
+},
+{
+    "timestamp": 1780945252.858868,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.858875,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215600001251270c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.858883,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012157000012d7f70c0c000300000960"
+},
+{
+    "timestamp": 1780945252.8588903,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8588972,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215800001241b10c0c005c000009c4"
+},
+{
+    "timestamp": 1780945252.8589041,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215900001298b00c0c00c000000027"
+},
+{
+    "timestamp": 1780945252.8589113,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215a00001291770c0c00640000005a"
+},
+{
+    "timestamp": 1780945252.8589182,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215b0000128ac20c0c006400000096"
+},
+{
+    "timestamp": 1780945252.8590183,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002d000c8376800c"
+},
+{
+    "timestamp": 1780945252.8590348,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002e000c6da4800c"
+},
+{
+    "timestamp": 1780945252.859045,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002f000cc7f5800c"
+},
+{
+    "timestamp": 1780945252.8590546,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945252.85907,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230030000ca656800c"
+},
+{
+    "timestamp": 1780945252.8590808,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230031000c0c07800c"
+},
+{
+    "timestamp": 1780945252.8590894,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945252.8590982,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230032000ce2d5800c"
+},
+{
+    "timestamp": 1780945252.8591063,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230033000c4884800c"
+},
+{
+    "timestamp": 1780945252.8591142,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945252.8591387,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230034000c2f50800c"
+},
+{
+    "timestamp": 1780945252.8591545,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945252.8591633,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230035000c8501800c"
+},
+{
+    "timestamp": 1780945252.8591719,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230036000c6bd3800c"
+},
+{
+    "timestamp": 1780945252.8591802,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945252.8591928,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230037000cc182800c"
+},
+{
+    "timestamp": 1780945252.8592026,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230038000ca47b800c"
+},
+{
+    "timestamp": 1780945252.8592107,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.8592186,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230039000c0e2a800c"
+},
+{
+    "timestamp": 1780945252.859227,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003a000ce0f8800c"
+},
+{
+    "timestamp": 1780945252.859235,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.859248,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003b000c4aa9800c"
+},
+{
+    "timestamp": 1780945252.8592575,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003c000c2d7d800c"
+},
+{
+    "timestamp": 1780945252.8592658,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a501002300000011fb3d80106a27095c03"
+},
+{
+    "timestamp": 1780945252.859274,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.8592823,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003d000c872c800c"
+},
+{
+    "timestamp": 1780945252.8592904,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003e000c69fe800c"
+},
+{
+    "timestamp": 1780945252.8592978,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.8593104,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003f000cc3af800c"
+},
+{
+    "timestamp": 1780945252.8593204,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230040000cbbd0800c"
+},
+{
+    "timestamp": 1780945252.8593287,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230041000c1181800c"
+},
+{
+    "timestamp": 1780945252.8593373,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.8593516,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230042000cff53800c"
+},
+{
+    "timestamp": 1780945252.8593605,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230043000c5502800c"
+},
+{
+    "timestamp": 1780945252.8593736,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.8593826,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230044000c32d6800c"
+},
+{
+    "timestamp": 1780945252.8593905,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230045000c9887800c"
+},
+{
+    "timestamp": 1780945252.8593981,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230046000c7655800c"
+},
+{
+    "timestamp": 1780945252.859406,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230047000cdc04800c"
+},
+{
+    "timestamp": 1780945252.8594134,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.859427,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230048000cb9fd800c"
+},
+{
+    "timestamp": 1780945252.8594353,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230049000c13ac800c"
+},
+{
+    "timestamp": 1780945252.859449,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004a000cfd7e800c"
+},
+{
+    "timestamp": 1780945252.8594573,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.859466,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004b000c572f800c"
+},
+{
+    "timestamp": 1780945252.8594742,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004c000c30fb800c"
+},
+{
+    "timestamp": 1780945252.8594818,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.8594942,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004d000c9aaa800c"
+},
+{
+    "timestamp": 1780945252.859503,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004e000c7478800c"
+},
+{
+    "timestamp": 1780945252.8595164,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.8595252,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004f000cde29800c"
+},
+{
+    "timestamp": 1780945252.859533,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230050000cbf8a800c"
+},
+{
+    "timestamp": 1780945252.8595407,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.859548,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230051000c15db800c"
+},
+{
+    "timestamp": 1780945252.8595555,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230052000cfb09800c"
+},
+{
+    "timestamp": 1780945252.8595634,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230053000c5158800c"
+},
+{
+    "timestamp": 1780945252.8595715,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.8595796,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230054000c368c800c"
+},
+{
+    "timestamp": 1780945252.859588,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230055000c9cdd800c"
+},
+{
+    "timestamp": 1780945252.8595955,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a501002300000011f3b380106a270bb103"
+},
+{
+    "timestamp": 1780945252.859603,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.85961,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230056000c720f800c"
+},
+{
+    "timestamp": 1780945252.8596172,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230057000cd85e800c"
+},
+{
+    "timestamp": 1780945252.8596246,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.8596315,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230058000cbda7800c"
+},
+{
+    "timestamp": 1780945252.8596387,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230059000c17f6800c"
+},
+{
+    "timestamp": 1780945252.8596458,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005a000cf924800c"
+},
+{
+    "timestamp": 1780945252.8596528,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005b000c5375800c"
+},
+{
+    "timestamp": 1780945252.8596597,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005c000c34a1800c"
+},
+{
+    "timestamp": 1780945252.8596666,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005d000c9ef0800c"
+},
+{
+    "timestamp": 1780945252.8596742,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005e000c7022800c"
+},
+{
+    "timestamp": 1780945252.8596814,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005f000cda73800c"
+},
+{
+    "timestamp": 1780945252.8596885,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230060000cb364800c"
+},
+{
+    "timestamp": 1780945252.8596954,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230061000c1935800c"
+},
+{
+    "timestamp": 1780945252.8606098,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215c000012a6720c0c00c000000024"
+},
+{
+    "timestamp": 1780945252.8606327,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101215d000018693b0c0c0064000000dc006500000012"
+},
+{
+    "timestamp": 1780945252.8606422,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101215e000018b0690c0c00640000012c006500000019"
+},
+{
+    "timestamp": 1780945252.8606515,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101215f0000182f1c0c0c006400000172006500000021"
+},
+{
+    "timestamp": 1780945252.8606606,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012160000012e4450c0c0064000001c2"
+},
+{
+    "timestamp": 1780945252.8606706,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216100001284f60c0c005c000008fc"
+},
+{
+    "timestamp": 1780945252.8606787,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216200001246b20c0c006400000244"
+},
+{
+    "timestamp": 1780945252.8606865,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216300001283d30c0c000300000960"
+},
+{
+    "timestamp": 1780945252.860695,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121640000122ffb0c0c0064000002da"
+},
+{
+    "timestamp": 1780945252.8607032,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.860712,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101216500001896f00c0c006400000370006500000024"
+},
+{
+    "timestamp": 1780945252.8607202,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012166000012d4f90c0c005c00000834"
+},
+{
+    "timestamp": 1780945252.8607275,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012167000012baae0c0c006400000348"
+},
+{
+    "timestamp": 1780945252.8607419,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121680000120fac0c0c005c0000076c"
+},
+{
+    "timestamp": 1780945252.8607514,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216900001267ac0c0c005c000006a4"
+},
+{
+    "timestamp": 1780945252.8607676,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216a000012c8ff0c0c005c000005dc"
+},
+{
+    "timestamp": 1780945252.8607767,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216b00001293ce0c0c005c00000514"
+},
+{
+    "timestamp": 1780945252.8607843,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216c00001298700c0c000300000924"
+},
+{
+    "timestamp": 1780945252.8607924,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8608005,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216d000012703c0c0c005c0000044c"
+},
+{
+    "timestamp": 1780945252.8608081,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216e00001242b40c0c0003000008d4"
+},
+{
+    "timestamp": 1780945252.8608165,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.860824,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101216f0000121a2f0c0c005c000003e8"
+},
+{
+    "timestamp": 1780945252.8608317,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217000001269f50c0c00c00000001c"
+},
+{
+    "timestamp": 1780945252.8608406,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012171000012ef4f0c0c000300000898"
+},
+{
+    "timestamp": 1780945252.8608778,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.860892,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217200001291f30c0c006500000020"
+},
+{
+    "timestamp": 1780945252.8609009,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217300001265590c0c00650000001c"
+},
+{
+    "timestamp": 1780945252.860909,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217400001233480c0c005c000003e8"
+},
+{
+    "timestamp": 1780945252.8609173,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217500001255270c0c00c00000000e"
+},
+{
+    "timestamp": 1780945252.8609254,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012176000012e9d50c0c000300000866"
+},
+{
+    "timestamp": 1780945252.860933,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8609416,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012177000012738f0c0c00c00000000c"
+},
+{
+    "timestamp": 1780945252.860966,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217800001249cd0c0c005c0000044c"
+},
+{
+    "timestamp": 1780945252.8609753,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121790000123f9a0c0c000300000848"
+},
+{
+    "timestamp": 1780945252.8609836,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8609917,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217a0000124f270c0c005c0000044c"
+},
+{
+    "timestamp": 1780945252.8610003,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217b000012866b0c0c000300000834"
+},
+{
+    "timestamp": 1780945252.8610084,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8610168,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217c00001244190c0c005c0000044c"
+},
+{
+    "timestamp": 1780945252.8610246,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217d000012dfe00c0c000300000820"
+},
+{
+    "timestamp": 1780945252.8610322,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.86104,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217e000012c13b0c0c006500000017"
+},
+{
+    "timestamp": 1780945252.8610477,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217f00001282ca0c0c006500000013"
+},
+{
+    "timestamp": 1780945252.8610559,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218000001201f20c0c006000000a8c"
+},
+{
+    "timestamp": 1780945252.8610647,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121810000127f010c0c005c0000044c"
+},
+{
+    "timestamp": 1780945252.8610725,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012182000012e2120c0c000300000820"
+},
+{
+    "timestamp": 1780945252.8610806,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cbf782626"
+},
+{
+    "timestamp": 1780945252.8611045,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000c46de1010"
+},
+{
+    "timestamp": 1780945252.861122,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8611295,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012183000012793b0c0c00650000000e"
+},
+{
+    "timestamp": 1780945252.861137,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012184000012996c0c0c005c00000514"
+},
+{
+    "timestamp": 1780945252.861144,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012185000012ea590c0c000300000820"
+},
+{
+    "timestamp": 1780945252.8611515,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8611584,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218600001234700c0c0064000002f8"
+},
+{
+    "timestamp": 1780945252.861166,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012187000012e0980c0c0064000002c6"
+},
+{
+    "timestamp": 1780945252.861173,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012188000012223a0c0c005c00000578"
+},
+{
+    "timestamp": 1780945252.86118,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121890000125d6f0c0c00030000082a"
+},
+{
+    "timestamp": 1780945252.861187,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.8611946,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218a000012d1be0c0c005c000005dc"
+},
+{
+    "timestamp": 1780945252.9599156,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230062000cf7e7800c"
+},
+{
+    "timestamp": 1780945252.9599714,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230063000c5db6800c"
+},
+{
+    "timestamp": 1780945252.9599826,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230064000c3a62800c"
+},
+{
+    "timestamp": 1780945252.9599926,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9600017,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230065000c9033800c"
+},
+{
+    "timestamp": 1780945252.9600105,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230066000c7ee1800c"
+},
+{
+    "timestamp": 1780945252.9600186,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230067000cd4b0800c"
+},
+{
+    "timestamp": 1780945252.9600286,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230068000cb149800c"
+},
+{
+    "timestamp": 1780945252.9600372,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230069000c1b18800c"
+},
+{
+    "timestamp": 1780945252.960045,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006a000cf5ca800c"
+},
+{
+    "timestamp": 1780945252.960053,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006b000c5f9b800c"
+},
+{
+    "timestamp": 1780945252.960061,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006c000c384f800c"
+},
+{
+    "timestamp": 1780945252.9600692,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.960101,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006d000c921e800c"
+},
+{
+    "timestamp": 1780945252.9601111,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006e000c7ccc800c"
+},
+{
+    "timestamp": 1780945252.9601192,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.960127,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006f000cd69d800c"
+},
+{
+    "timestamp": 1780945252.9601355,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230070000cb73e800c"
+},
+{
+    "timestamp": 1780945252.9601433,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230071000c1d6f800c"
+},
+{
+    "timestamp": 1780945252.960151,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.960159,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230072000cf3bd800c"
+},
+{
+    "timestamp": 1780945252.960167,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230073000c59ec800c"
+},
+{
+    "timestamp": 1780945252.960175,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230074000c3e38800c"
+},
+{
+    "timestamp": 1780945252.9601831,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230075000c9469800c"
+},
+{
+    "timestamp": 1780945252.9601908,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230076000c7abb800c"
+},
+{
+    "timestamp": 1780945252.9601986,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9602065,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230077000cd0ea800c"
+},
+{
+    "timestamp": 1780945252.960214,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230078000cb513800c"
+},
+{
+    "timestamp": 1780945252.9602225,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230079000c1f42800c"
+},
+{
+    "timestamp": 1780945252.96023,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9602382,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007a000cf190800c"
+},
+{
+    "timestamp": 1780945252.9602466,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007b000c5bc1800c"
+},
+{
+    "timestamp": 1780945252.9602547,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9602633,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007c000c3c15800c"
+},
+{
+    "timestamp": 1780945252.9602714,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007d000c9644800c"
+},
+{
+    "timestamp": 1780945252.9602804,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9602892,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007e000c7896800c"
+},
+{
+    "timestamp": 1780945252.960297,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007f000cd2c7800c"
+},
+{
+    "timestamp": 1780945252.9603057,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230080000c8868800c"
+},
+{
+    "timestamp": 1780945252.9603136,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230081000c2239800c"
+},
+{
+    "timestamp": 1780945252.9603214,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230082000ccceb800c"
+},
+{
+    "timestamp": 1780945252.9603295,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a5010023000000119fd980106a270e0603"
+},
+{
+    "timestamp": 1780945252.9603376,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9603457,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230083000c66ba800c"
+},
+{
+    "timestamp": 1780945252.9603543,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230084000c016e800c"
+},
+{
+    "timestamp": 1780945252.9603624,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230085000cab3f800c"
+},
+{
+    "timestamp": 1780945252.96037,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50100230000001294b4800c0264ffffffcc"
+},
+{
+    "timestamp": 1780945252.9603786,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230086000c45ed800c"
+},
+{
+    "timestamp": 1780945252.9603868,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230087000cefbc800c"
+},
+{
+    "timestamp": 1780945252.9603949,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230088000c8a45800c"
+},
+{
+    "timestamp": 1780945252.9604032,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230089000c2014800c"
+},
+{
+    "timestamp": 1780945252.960411,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.9604192,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008a000ccec6800c"
+},
+{
+    "timestamp": 1780945252.9604268,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008b000c6497800c"
+},
+{
+    "timestamp": 1780945252.9604352,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.9604425,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008c000c0343800c"
+},
+{
+    "timestamp": 1780945252.96045,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008d000ca912800c"
+},
+{
+    "timestamp": 1780945252.960458,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.9604654,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008e000c47c0800c"
+},
+{
+    "timestamp": 1780945252.960473,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008f000ced91800c"
+},
+{
+    "timestamp": 1780945252.960481,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.960488,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230090000c8c32800c"
+},
+{
+    "timestamp": 1780945252.9604955,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230091000c2663800c"
+},
+{
+    "timestamp": 1780945252.9605029,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945252.96051,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230092000cc8b1800c"
+},
+{
+    "timestamp": 1780945252.9605174,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230093000c62e0800c"
+},
+{
+    "timestamp": 1780945252.9605246,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230094000c0534800c"
+},
+{
+    "timestamp": 1780945252.9605317,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230095000caf65800c"
+},
+{
+    "timestamp": 1780945252.961571,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218b000012a87a0c0c000300000834"
+},
+{
+    "timestamp": 1780945252.9615917,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.9616013,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218c000012cde60c0c005c00000640"
+},
+{
+    "timestamp": 1780945252.9616094,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218d0000121c5f0c0c000300000848"
+},
+{
+    "timestamp": 1780945252.9616182,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.9616263,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218e00001276a60c0c005c000006a4"
+},
+{
+    "timestamp": 1780945252.9616344,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218f000012a9ce0c0c000300000852"
+},
+{
+    "timestamp": 1780945252.9616423,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.9616501,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101219000001251600c0c005c000006a4"
+},
+{
+    "timestamp": 1780945252.9616575,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121910000126fc60c0c00030000085c"
+},
+{
+    "timestamp": 1780945252.9616654,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945252.9616725,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012192000012a5e30c0c00c000000000"
+},
+{
+    "timestamp": 1780945252.9616797,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012193000012afa50c0c006500000000"
+},
+{
+    "timestamp": 1780945252.9616868,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121940000125cb40c0c005c000006a4"
+},
+{
+    "timestamp": 1780945252.961694,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121950000120eca0c0c006400000000"
+},
+{
+    "timestamp": 1780945253.160844,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b7000ce352800c"
+},
+{
+    "timestamp": 1780945253.1619706,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012196000012f0940c0c0003000008a5"
+},
+{
+    "timestamp": 1780945270.8995285,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b8000c86ab800c"
+},
+{
+    "timestamp": 1780945270.8996913,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b8000012d6010c0c00c000000000"
+},
+{
+    "timestamp": 1780945271.1001554,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b9000c2cfa800c"
+},
+{
+    "timestamp": 1780945271.1003132,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b900001251a00c0c005c000003e8"
+},
+{
+    "timestamp": 1780945283.3265774,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000c65ce1111"
+},
+{
+    "timestamp": 1780945283.5272212,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101210100004295030c0c000101000200000834000300000852000500000c00000d00000e0800110800120100df0000c900001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945283.7277393,
+    "source": "AC (ACM0)",
+    "length": 85,
+    "data_hex": "a50101210200005555480c0c002200002501002700002d000035000038010f005c000003e800391202030708090b15171f21222427282a2b3031005e0000720000000000730100740600950000000000150000a400"
+},
+{
+    "timestamp": 1780945283.9283342,
+    "source": "AC (ACM0)",
+    "length": 36,
+    "data_hex": "a501012103000024e44c0c0c00bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945284.1289868,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012104000017a5ae0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945284.3294833,
+    "source": "AC (ACM0)",
+    "length": 207,
+    "data_hex": "a5010023000100cfdd68800001706b00106e6e326f6f61616373777a3675796930707300106e6e326f6f61616373777a36757969307673004b7b224d4355223a5b2241434d43552f56392d5241424d54323641432d46563030312e3030312e303332225d2c22534e223a223131313230315858585858585858585858585858585858227d737200036170707364001074636c5f41435f742a61705f737a6b7470770020625c66796844426d396b665c666f43566224455653422c7562554c566e5f35466d74000000c86d6c0000ffff"
+},
+{
+    "timestamp": 1780945284.3296564,
+    "source": "Dongle (ACM1)",
+    "length": 13,
+    "data_hex": "a50100210100000d68e6000001"
+},
+{
+    "timestamp": 1780945284.5299098,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012105000017da090c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945284.630369,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230005000c89ef800c"
+},
+{
+    "timestamp": 1780945284.7303004,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a501012106000044b7870c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945284.830772,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230006000c673d800c"
+},
+{
+    "timestamp": 1780945284.9306633,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012107000012553d0c0c00d700000000"
+},
+{
+    "timestamp": 1780945284.931108,
+    "source": "Dongle (ACM1)",
+    "length": 13,
+    "data_hex": "a50100210100000d68e6000001"
+},
+{
+    "timestamp": 1780945285.0312905,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230007000ccd6c800c"
+},
+{
+    "timestamp": 1780945285.1311102,
+    "source": "AC (ACM0)",
+    "length": 207,
+    "data_hex": "a5010023000000cf49ea800001706b00106e6e326f6f61616373777a3675796930707300106e6e326f6f61616373777a36757969307673004b7b224d4355223a5b2241434d43552f56392d5241424d54323641432d46563030312e3030312e303332225d2c22534e223a223131313230315858585858585858585858585858585858227d737200036170707364001074636c5f41435f742a61705f737a6b7470770020625c66796844426d396b665c666f43566224455653422c7562554c566e5f35466d74000000c86d6c0000ffff"
+},
+{
+    "timestamp": 1780945285.3315039,
+    "source": "AC (ACM0)",
+    "length": 14,
+    "data_hex": "a50100210800000e44a912120001"
+},
+{
+    "timestamp": 1780945286.1330423,
+    "source": "AC (ACM0)",
+    "length": 14,
+    "data_hex": "a50100210900000e037a12120001"
+},
+{
+    "timestamp": 1780945286.9344857,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101210a000042c22e0c0c000101000200000834000300000852000500000c00000d00000e0800110800120100df0000c900001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945287.1348588,
+    "source": "AC (ACM0)",
+    "length": 91,
+    "data_hex": "a50101210b00005b4a720c0c002200002501002700002d000035000038010f005c0000044c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406"
+},
+{
+    "timestamp": 1780945287.3352172,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a50101210c00003000970c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945287.5355778,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101210d000017325c0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945287.7359223,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101210e0000176c3f0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945287.936263,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101210f00004422d80c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945288.1366377,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121100000126a260c0c00d700000000"
+},
+{
+    "timestamp": 1780945288.3370142,
+    "source": "AC (ACM0)",
+    "length": 14,
+    "data_hex": "a50100211100000e201412120001"
+},
+{
+    "timestamp": 1780945290.3413072,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a5010121120000420f350c0c00010100020000083400030000085c000500000c00000d00000e0800110800120100df0000c900001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945290.5419168,
+    "source": "AC (ACM0)",
+    "length": 91,
+    "data_hex": "a50101211300005bf2fa0c0c002200002501002700002d000035000038010f005c0000044c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406"
+},
+{
+    "timestamp": 1780945290.6421864,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123000a000cec16800c"
+},
+{
+    "timestamp": 1780945290.7424572,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123000b000c4647800c"
+},
+{
+    "timestamp": 1780945290.742527,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123000c000c2193800c"
+},
+{
+    "timestamp": 1780945290.7425482,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123000d000c8bc2800c"
+},
+{
+    "timestamp": 1780945290.7425663,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123000e000c6510800c"
+},
+{
+    "timestamp": 1780945290.7425833,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123000f000ccf41800c"
+},
+{
+    "timestamp": 1780945290.7425995,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230010000caee2800c"
+},
+{
+    "timestamp": 1780945290.7426164,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230012000cea61800c"
+},
+{
+    "timestamp": 1780945290.7426329,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230013000c4030800c"
+},
+{
+    "timestamp": 1780945290.7426486,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230014000c27e4800c"
+},
+{
+    "timestamp": 1780945290.742756,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a501012114000030fa750c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945290.9430983,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230015000c8db5800c"
+},
+{
+    "timestamp": 1780945290.9432569,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012115000017ab4d0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945291.1436188,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230016000c6367800c"
+},
+{
+    "timestamp": 1780945291.143783,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012116000017f52e0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945291.243945,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210200000eb5a40b0b0301"
+},
+{
+    "timestamp": 1780945291.3442895,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230017000cc936800c"
+},
+{
+    "timestamp": 1780945291.3444746,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a501012117000044017c0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945291.5448005,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230018000caccf800c"
+},
+{
+    "timestamp": 1780945291.5449831,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012118000012718e0c0c00d700000000"
+},
+{
+    "timestamp": 1780945293.7503154,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230019000c069e800c"
+},
+{
+    "timestamp": 1780945293.7504795,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101211900004258180c0c00010100020000083400030000085c000500000c00000d00000e0800110800120100df0000c900001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945293.8506281,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210200000eb5a40b0b0301"
+},
+{
+    "timestamp": 1780945293.950996,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210300000eb2f30b0b0305"
+},
+{
+    "timestamp": 1780945293.9511821,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230002000cd90f800b"
+},
+{
+    "timestamp": 1780945294.151715,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230003000c735e800b"
+},
+{
+    "timestamp": 1780945294.352201,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123001a000ce84c800c"
+},
+{
+    "timestamp": 1780945294.3524086,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101211a00004285e80c0c00010100020000083400030000085c000500000c00000d00000e0800110800120100df0000c900001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945294.5528347,
+    "source": "AC (ACM0)",
+    "length": 91,
+    "data_hex": "a50101211b00005b9a820c0c002200002501002700002d000035000038010f005c0000044c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406"
+},
+{
+    "timestamp": 1780945294.5533152,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123001b000c421d800c"
+},
+{
+    "timestamp": 1780945294.7532341,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a50101211c000030ac2b0c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945294.7537653,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123001c000c25c9800c"
+},
+{
+    "timestamp": 1780945294.953712,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101211d0000172c5d0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945294.9540753,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123001d000c8f98800c"
+},
+{
+    "timestamp": 1780945295.1541994,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101211e000017723e0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945295.1544378,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123001e000c614a800c"
+},
+{
+    "timestamp": 1780945295.3546426,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101211f000044efff0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945295.3547559,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123001f000ccb1b800c"
+},
+{
+    "timestamp": 1780945295.555073,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230020000ca20c800c"
+},
+{
+    "timestamp": 1780945295.5551834,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101212000001233d60c0c00d700000000"
+},
+{
+    "timestamp": 1780945296.6570773,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50101210400000e02570b0bffff"
+},
+{
+    "timestamp": 1780945296.8573537,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230004000c5359800b"
+},
+{
+    "timestamp": 1780945297.0576494,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a5010121210000429c010c0c00010100020000083400030000085c000500000c00000d00000e0800110800120100df0000c902001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945297.1579595,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230021000c085d800c"
+},
+{
+    "timestamp": 1780945297.2579896,
+    "source": "AC (ACM0)",
+    "length": 91,
+    "data_hex": "a50101212200005bd2350c0c002200002501002700002d000035000038010f005c000004b000391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406"
+},
+{
+    "timestamp": 1780945297.3583248,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230022000ce68f800c"
+},
+{
+    "timestamp": 1780945297.458331,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a5010121230000306feb0c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945297.5586405,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230023000c4cde800c"
+},
+{
+    "timestamp": 1780945297.658674,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101212400001799ac0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945297.7590196,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230024000c2b0a800c"
+},
+{
+    "timestamp": 1780945297.859038,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012125000017e60b0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945297.9593942,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230025000c815b800c"
+},
+{
+    "timestamp": 1780945298.0594091,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a5010121260000443de80c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945298.1597753,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230026000c6f89800c"
+},
+{
+    "timestamp": 1780945298.2598047,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121270000123b9d0c0c00d700000000"
+},
+{
+    "timestamp": 1780945298.360144,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230027000cc5d8800c"
+},
+{
+    "timestamp": 1780945301.9685755,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a50100210500001194f315156a27119503"
+},
+{
+    "timestamp": 1780945303.0718248,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cbf782626"
+},
+{
+    "timestamp": 1780945303.2717874,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a501002300000011db5180106a27119703"
+},
+{
+    "timestamp": 1780945303.2723207,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000c46de1010"
+},
+{
+    "timestamp": 1780945303.4722471,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945303.472827,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945306.1789083,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210600000fd7cd0a0a000100"
+},
+{
+    "timestamp": 1780945306.2793715,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230006000c07fb800a"
+},
+{
+    "timestamp": 1780945306.4797122,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230028000ca021800c"
+},
+{
+    "timestamp": 1780945306.4798782,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121280000125e250c0c000100003800"
+},
+{
+    "timestamp": 1780945307.3824065,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501012107000012ae200a0a000101001300"
+},
+{
+    "timestamp": 1780945307.482826,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230007000cadaa800a"
+},
+{
+    "timestamp": 1780945307.6835155,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101212900004256b50c0c00010100020000083400030000085c000500000c00000d00000e0800110800120100df0000c900001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945307.6836972,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230029000c0a70800c"
+},
+{
+    "timestamp": 1780945307.8841822,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002a000ce4a2800c"
+},
+{
+    "timestamp": 1780945307.884359,
+    "source": "AC (ACM0)",
+    "length": 91,
+    "data_hex": "a50101212a00005b21890c0c002200002501002700002d000035000038010f005c0000051400391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406"
+},
+{
+    "timestamp": 1780945308.0847125,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002b000c4ef3800c"
+},
+{
+    "timestamp": 1780945308.084896,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a50101212b00003039b50c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945308.2852547,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002c000c2927800c"
+},
+{
+    "timestamp": 1780945308.285423,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101212c0000171ebc0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945308.4858472,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002d000c8376800c"
+},
+{
+    "timestamp": 1780945308.4860315,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101212d000017611b0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945308.686495,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002e000c6da4800c"
+},
+{
+    "timestamp": 1780945308.6866844,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101212e000044d36b0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945308.8871086,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123002f000cc7f5800c"
+},
+{
+    "timestamp": 1780945308.8872936,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101212f00001220350c0c00d700000000"
+},
+{
+    "timestamp": 1780945310.591861,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010121080000128cfb0a0a000200000834"
+},
+{
+    "timestamp": 1780945310.7924433,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230008000cc853800a"
+},
+{
+    "timestamp": 1780945313.5996504,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010121090000128f8e0a0a000200000834"
+},
+{
+    "timestamp": 1780945313.8000727,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230009000c6202800a"
+},
+{
+    "timestamp": 1780945315.0053854,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210a00000f718f0a0a001101"
+},
+{
+    "timestamp": 1780945315.2034476,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123000a000c8cd0800a"
+},
+{
+    "timestamp": 1780945315.4038005,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012130000012894c0c0c000c01001101"
+},
+{
+    "timestamp": 1780945315.406008,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230030000ca656800c"
+},
+{
+    "timestamp": 1780945317.6077495,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121310000123cd80c0c005c000005dc"
+},
+{
+    "timestamp": 1780945317.609028,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230031000c0c07800c"
+},
+{
+    "timestamp": 1780945319.1111987,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210b00000f0b850a0a001108"
+},
+{
+    "timestamp": 1780945319.2106628,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123000b000c2681800a"
+},
+{
+    "timestamp": 1780945319.4110847,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012132000012683b0c0c000c00001108"
+},
+{
+    "timestamp": 1780945319.4117217,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230032000ce2d5800c"
+},
+{
+    "timestamp": 1780945321.1157088,
+    "source": "Dongle (ACM1)",
+    "length": 27,
+    "data_hex": "a50101210c00001b56200a0a00df01000200000a2802270000004f"
+},
+{
+    "timestamp": 1780945321.2158835,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123000c000c4155800a"
+},
+{
+    "timestamp": 1780945321.4164817,
+    "source": "AC (ACM0)",
+    "length": 27,
+    "data_hex": "a50101213300001bc9040c0c000200000a2800df0102270000004f"
+},
+{
+    "timestamp": 1780945321.4166415,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230033000c4884800c"
+},
+{
+    "timestamp": 1780945322.3189068,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210d00000fe55e0a0a00df00"
+},
+{
+    "timestamp": 1780945322.6198537,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123000d000ceb04800a"
+},
+{
+    "timestamp": 1780945322.8205392,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213400000f399c0c0c00df00"
+},
+{
+    "timestamp": 1780945322.820701,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230034000c2f50800c"
+},
+{
+    "timestamp": 1780945323.8235102,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210e00000f8dc50a0a002202"
+},
+{
+    "timestamp": 1780945323.9236352,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123000e000c05d6800a"
+},
+{
+    "timestamp": 1780945324.1241703,
+    "source": "AC (ACM0)",
+    "length": 27,
+    "data_hex": "a50101213500001b9f9c0c0c000200000a2802270000004f002202"
+},
+{
+    "timestamp": 1780945324.2245247,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230035000c8501800c"
+},
+{
+    "timestamp": 1780945324.8267667,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210f00000f46a40a0a002200"
+},
+{
+    "timestamp": 1780945324.926108,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123000f000caf87800a"
+},
+{
+    "timestamp": 1780945325.126447,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213600000f9a660c0c002200"
+},
+{
+    "timestamp": 1780945325.2274241,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230036000c6bd3800c"
+},
+{
+    "timestamp": 1780945327.13016,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211000000f14990a0a002500"
+},
+{
+    "timestamp": 1780945327.3302023,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230010000cce24800a"
+},
+{
+    "timestamp": 1780945327.530537,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213700000fe8d20c0c002500"
+},
+{
+    "timestamp": 1780945327.530859,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230037000cc182800c"
+},
+{
+    "timestamp": 1780945328.2318406,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211100000fef9b0a0a002501"
+},
+{
+    "timestamp": 1780945328.3319156,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230011000c6475800a"
+},
+{
+    "timestamp": 1780945328.532267,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213800000f60a70c0c002501"
+},
+{
+    "timestamp": 1780945328.5324419,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230038000ca47b800c"
+},
+{
+    "timestamp": 1780945329.1334193,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211200000f0b910a0a001e00"
+},
+{
+    "timestamp": 1780945329.333882,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230012000c8aa7800a"
+},
+{
+    "timestamp": 1780945329.5343642,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213900000f42ca0c0c001e00"
+},
+{
+    "timestamp": 1780945329.5346673,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230039000c0e2a800c"
+},
+{
+    "timestamp": 1780945329.8352003,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211300000ff0930a0a001e01"
+},
+{
+    "timestamp": 1780945329.9356675,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230013000c20f6800a"
+},
+{
+    "timestamp": 1780945330.1360407,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003a000ce0f8800c"
+},
+{
+    "timestamp": 1780945330.1362994,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213a00000f7faf0c0c001e01"
+},
+{
+    "timestamp": 1780945331.4396327,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211400000ffe350a0a002701"
+},
+{
+    "timestamp": 1780945331.5399747,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003b000c4aa9800c"
+},
+{
+    "timestamp": 1780945331.5401537,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101213b0000128b560c0c005c000006a4"
+},
+{
+    "timestamp": 1780945331.7405543,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230000000caab8800c"
+},
+{
+    "timestamp": 1780945331.9411676,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213c00000f9a2a0c0c002701"
+},
+{
+    "timestamp": 1780945331.941458,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003c000c2d7d800c"
+},
+{
+    "timestamp": 1780945333.9493854,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211500000f05370a0a002700"
+},
+{
+    "timestamp": 1780945334.1498966,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230015000ced73800a"
+},
+{
+    "timestamp": 1780945334.3501961,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003d000c872c800c"
+},
+{
+    "timestamp": 1780945334.350306,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101213d00000f61280c0c002700"
+},
+{
+    "timestamp": 1780945361.1095276,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a50101211600001262c60a0a001202000502"
+},
+{
+    "timestamp": 1780945361.4107256,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230016000c03a1800a"
+},
+{
+    "timestamp": 1780945361.6109147,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003e000c69fe800c"
+},
+{
+    "timestamp": 1780945361.611306,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101213e000042cce30c0c000200000a28000300000870000502000c00000d00000e0800110800120200df0000c900001700001e0102270000004f014800002200"
+},
+{
+    "timestamp": 1780945361.8115227,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123003f000cc3af800c"
+},
+{
+    "timestamp": 1780945361.811875,
+    "source": "AC (ACM0)",
+    "length": 93,
+    "data_hex": "a50101213f00005dc20d0c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000019007300007406009500000000001500"
+},
+{
+    "timestamp": 1780945362.0121791,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230040000cbbd0800c"
+},
+{
+    "timestamp": 1780945362.012343,
+    "source": "AC (ACM0)",
+    "length": 39,
+    "data_hex": "a501012140000027bac30c0c00a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945362.2128468,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230041000c1181800c"
+},
+{
+    "timestamp": 1780945362.2132413,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a5010121410000178ec00c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945362.4133146,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211700000f79b40a0a001204"
+},
+{
+    "timestamp": 1780945362.4133642,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230042000cff53800c"
+},
+{
+    "timestamp": 1780945362.413561,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012142000017d0a30c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945362.6136925,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230043000c5502800c"
+},
+{
+    "timestamp": 1780945362.6139114,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101214300004437f50c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945362.8140762,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230044000c32d6800c"
+},
+{
+    "timestamp": 1780945362.8142931,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121440000128de20c0c00d700000000"
+},
+{
+    "timestamp": 1780945363.0144448,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945363.014664,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945364.8175728,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211800000fe1e00a0a001204"
+},
+{
+    "timestamp": 1780945364.9177473,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230018000ccc09800a"
+},
+{
+    "timestamp": 1780945365.018072,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211900000f0ac30a0a001204"
+},
+{
+    "timestamp": 1780945365.1181078,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230019000c6658800a"
+},
+{
+    "timestamp": 1780945365.3187258,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101214500004224930c0c000200000a28000300000744000502000c00000d00000e0800110800120400df0000c900001700001e0102270000004f014800002200"
+},
+{
+    "timestamp": 1780945365.4188106,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230045000c9887800c"
+},
+{
+    "timestamp": 1780945365.6191485,
+    "source": "AC (ACM0)",
+    "length": 93,
+    "data_hex": "a50101214600005dfe480c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000019007300007406009500000000001500"
+},
+{
+    "timestamp": 1780945365.6192544,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230046000c7655800c"
+},
+{
+    "timestamp": 1780945365.7193038,
+    "source": "AC (ACM0)",
+    "length": 39,
+    "data_hex": "a5010121470000272bb40c0c00a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945365.819625,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230047000cdc04800c"
+},
+{
+    "timestamp": 1780945365.9196422,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101214800001719320c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945366.019965,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230048000cb9fd800c"
+},
+{
+    "timestamp": 1780945366.1200154,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101214900001766950c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945366.2203314,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230049000c13ac800c"
+},
+{
+    "timestamp": 1780945366.320351,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101214a000044a2aa0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945366.420668,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004a000cfd7e800c"
+},
+{
+    "timestamp": 1780945366.4207218,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101211a00000f67030a0a001200"
+},
+{
+    "timestamp": 1780945366.5206892,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123001a000c888a800a"
+},
+{
+    "timestamp": 1780945366.721029,
+    "source": "AC (ACM0)",
+    "length": 122,
+    "data_hex": "a50101214b00007ac97c0c0c000200000a28000300000744000502000c00000d00000e0800110800120000df0000c900001700001e0102270000004f014800002200014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945366.821346,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004b000c572f800c"
+},
+{
+    "timestamp": 1780945367.0215416,
+    "source": "AC (ACM0)",
+    "length": 149,
+    "data_hex": "a50101214c00009553000c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000019007300007406009500000000001500014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945367.0217342,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004c000c30fb800c"
+},
+{
+    "timestamp": 1780945367.222054,
+    "source": "AC (ACM0)",
+    "length": 95,
+    "data_hex": "a50101214d00005f4dfa0c0c00a40000bd0000000000be0000000000bf0000000000c000000000014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945367.224192,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004d000c9aaa800c"
+},
+{
+    "timestamp": 1780945367.4227033,
+    "source": "AC (ACM0)",
+    "length": 79,
+    "data_hex": "a50101214e00004fdb450c0c00fa00073b3b3b3b3b3b3b014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945367.4246979,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004e000c7478800c"
+},
+{
+    "timestamp": 1780945367.6231585,
+    "source": "AC (ACM0)",
+    "length": 79,
+    "data_hex": "a50101214f00004f13fa0c0c00fb00073b3b3b3b3b3b3b014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945367.625156,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123004f000cde29800c"
+},
+{
+    "timestamp": 1780945367.7253523,
+    "source": "Dongle (ACM1)",
+    "length": 36,
+    "data_hex": "a50101211b000024817c0a0a00df00000200000a2802270000004f001201000500007301"
+},
+{
+    "timestamp": 1780945367.82357,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101215000004476b60c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945367.8256068,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230050000cbf8a800c"
+},
+{
+    "timestamp": 1780945367.9238074,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230000000caab8800c"
+},
+{
+    "timestamp": 1780945368.2244976,
+    "source": "AC (ACM0)",
+    "length": 122,
+    "data_hex": "a50101215100007a85af0c0c000200000a28000300000870000500000c00000d00000e0800110800120100df0000c900001700001e0102270000004f014800002200014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945368.226492,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230051000c15db800c"
+},
+{
+    "timestamp": 1780945368.424996,
+    "source": "AC (ACM0)",
+    "length": 149,
+    "data_hex": "a501012152000095ed950c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406009500000000001500014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945368.4269993,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230052000cfb09800c"
+},
+{
+    "timestamp": 1780945368.625519,
+    "source": "AC (ACM0)",
+    "length": 95,
+    "data_hex": "a50101215300005fd6a10c0c00a40000bd0000000000be0000000000bf0000000000c000000000014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945368.6275823,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230053000c5158800c"
+},
+{
+    "timestamp": 1780945368.8260283,
+    "source": "AC (ACM0)",
+    "length": 79,
+    "data_hex": "a50101215400004f61a80c0c00fa00073b3b3b3b3b3b3b014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945368.8280344,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230054000c368c800c"
+},
+{
+    "timestamp": 1780945369.02655,
+    "source": "AC (ACM0)",
+    "length": 79,
+    "data_hex": "a50101215500004fa9170c0c00fb00073b3b3b3b3b3b3b014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945369.028505,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230055000c9cdd800c"
+},
+{
+    "timestamp": 1780945369.2270894,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a5010121560000447e5f0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945369.2290113,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230056000c720f800c"
+},
+{
+    "timestamp": 1780945369.4276338,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012157000012bf2d0c0c00d700000000"
+},
+{
+    "timestamp": 1780945369.4295487,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230057000cd85e800c"
+},
+{
+    "timestamp": 1780945370.2314546,
+    "source": "Dongle (ACM1)",
+    "length": 36,
+    "data_hex": "a50101211c0000249bea0a0a00df00000200000a2802270000004f001202000502007300"
+},
+{
+    "timestamp": 1780945370.329653,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a5010123001c000c450f800a"
+},
+{
+    "timestamp": 1780945370.6302931,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a5010121580000427a780c0c000200000a28000300000870000502000c00000d00000e0800110800120200df0000c900001700001e0102270000004f014800002200"
+},
+{
+    "timestamp": 1780945370.6325383,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230058000cbda7800c"
+},
+{
+    "timestamp": 1780945370.830674,
+    "source": "AC (ACM0)",
+    "length": 93,
+    "data_hex": "a50101215900005ddf160c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000019007300007406009500000000001500"
+},
+{
+    "timestamp": 1780945370.8330562,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230059000c17f6800c"
+},
+{
+    "timestamp": 1780945370.9308918,
+    "source": "AC (ACM0)",
+    "length": 39,
+    "data_hex": "a50101215a000027c3f60c0c00a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945371.0336237,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005a000cf924800c"
+},
+{
+    "timestamp": 1780945371.1313436,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101215b00001736150c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945371.2341332,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005b000c5375800c"
+},
+{
+    "timestamp": 1780945371.33179,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101215c0000172bfe0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945371.4346507,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005c000c34a1800c"
+},
+{
+    "timestamp": 1780945371.5322301,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101215d0000441cb80c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945371.6351645,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005d000c9ef0800c"
+},
+{
+    "timestamp": 1780945371.732717,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101215e000012a7f00c0c00d700000000"
+},
+{
+    "timestamp": 1780945371.8356776,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005e000c7022800c"
+},
+{
+    "timestamp": 1780945381.5532093,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123005f000cda73800c"
+},
+{
+    "timestamp": 1780945381.5535622,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a50101215f000042a42a0c0c000200000a28000300000870000502000c00000d00000e0800110800120100df0000c900001700001e0102270000004f014800002200"
+},
+{
+    "timestamp": 1780945381.753748,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230060000cb364800c"
+},
+{
+    "timestamp": 1780945381.7540681,
+    "source": "AC (ACM0)",
+    "length": 93,
+    "data_hex": "a50101216000005d3bd00c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000019007300007406009500000000001500"
+},
+{
+    "timestamp": 1780945381.954346,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230061000c1935800c"
+},
+{
+    "timestamp": 1780945381.9545515,
+    "source": "AC (ACM0)",
+    "length": 39,
+    "data_hex": "a5010121610000278e8f0c0c00a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945382.1548858,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230062000cf7e7800c"
+},
+{
+    "timestamp": 1780945382.1550565,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101216200001783e40c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945382.3554754,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230063000c5db6800c"
+},
+{
+    "timestamp": 1780945382.3556497,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012163000017fc430c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945382.5561004,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230064000c3a62800c"
+},
+{
+    "timestamp": 1780945382.556289,
+    "source": "AC (ACM0)",
+    "length": 74,
+    "data_hex": "a50101216400004a00340c0c0002000009c402270000004d014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d400"
+},
+{
+    "timestamp": 1780945382.756587,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230065000c9033800c"
+},
+{
+    "timestamp": 1780945382.756696,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a501012165000018cc350c0c00d50000d60000d700000000"
+},
+{
+    "timestamp": 1780945384.3594446,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230066000c7ee1800c"
+},
+{
+    "timestamp": 1780945384.35961,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a501012166000018aa8c0c0c000200000a2802270000004f"
+},
+{
+    "timestamp": 1780945390.6719606,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101216700000f3d9a0c0c001e00"
+},
+{
+    "timestamp": 1780945390.6733634,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230067000cd4b0800c"
+},
+{
+    "timestamp": 1780945391.6745381,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101216800000fb5ef0c0c001e01"
+},
+{
+    "timestamp": 1780945391.6756253,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230068000cb149800c"
+},
+{
+    "timestamp": 1780945392.677848,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230069000c1b18800c"
+},
+{
+    "timestamp": 1780945392.680811,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a5010121690000426ac20c0c0002000007d000030000087a000502000c00000d00000e0800110800120200df0000c900001700001e01022700000044014800002200"
+},
+{
+    "timestamp": 1780945392.878253,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006a000cf5ca800c"
+},
+{
+    "timestamp": 1780945392.881106,
+    "source": "AC (ACM0)",
+    "length": 93,
+    "data_hex": "a50101216a00005d598b0c0c002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000019007300007406009500000000001500"
+},
+{
+    "timestamp": 1780945393.0785978,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006b000c5f9b800c"
+},
+{
+    "timestamp": 1780945393.081405,
+    "source": "AC (ACM0)",
+    "length": 39,
+    "data_hex": "a50101216b000027ab720c0c00a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945393.278965,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006c000c384f800c"
+},
+{
+    "timestamp": 1780945393.2817125,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101216c00001766b80c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945393.4793134,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006d000c921e800c"
+},
+{
+    "timestamp": 1780945393.4820085,
+    "source": "AC (ACM0)",
+    "length": 77,
+    "data_hex": "a50101216d00004dc4090c0c000200000a2800030000087a000500000c00000d00000e0800110800120300df0000c900001700001e0102270000004f01480000220000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945393.6797392,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006e000c7ccc800c"
+},
+{
+    "timestamp": 1780945393.6823573,
+    "source": "AC (ACM0)",
+    "length": 104,
+    "data_hex": "a50101216e000068bcd00c0c002501002700002d00003500005c000007d000391202030708090b15171f21222427282a2b3031005e00006000000a8c00640000000000650000000000720000000000730100740600950000000000150000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945393.8801396,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123006f000cd69d800c"
+},
+{
+    "timestamp": 1780945393.8827162,
+    "source": "AC (ACM0)",
+    "length": 50,
+    "data_hex": "a50101216f0000329c730c0c00a40000bd0000000000be0000000000bf0000000000c00000000000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945394.0804899,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230070000cb73e800c"
+},
+{
+    "timestamp": 1780945394.083018,
+    "source": "AC (ACM0)",
+    "length": 104,
+    "data_hex": "a5010121700000688ad70c0c00020000064000030000074e000506000c00000d00000e0800110800120400df0000c900001700001e0102270000003d01480000220000a40000bd0000000000be0000000000bf0000000000c00000000000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945394.280892,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230071000c1d6f800c"
+},
+{
+    "timestamp": 1780945394.2833185,
+    "source": "AC (ACM0)",
+    "length": 131,
+    "data_hex": "a5010121710000830c880c0c002501002700002d00003500005c000007d000391202030708090b15171f21222427282a2b3031005e00006000000a8c00640000000000650000000000720000005500730000740600950000000000150000a40000bd0000000000be0000000000bf0000000000c00000000000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945394.48124,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230072000cf3bd800c"
+},
+{
+    "timestamp": 1780945394.4836144,
+    "source": "AC (ACM0)",
+    "length": 50,
+    "data_hex": "a501012172000032f5680c0c00a40000bd0000000000be0000000000bf0000000000c00000000000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945394.6816168,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230073000c59ec800c"
+},
+{
+    "timestamp": 1780945394.6839106,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a5010121730000178d070c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945394.8821187,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230074000c3e38800c"
+},
+{
+    "timestamp": 1780945394.8841958,
+    "source": "AC (ACM0)",
+    "length": 77,
+    "data_hex": "a50101217400004d349c0c0c00020000064000030000087a000500000c00000d00000e0800110800120000df0000c900001700001e0102270000003d01480000220000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945395.0824635,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230075000c9469800c"
+},
+{
+    "timestamp": 1780945395.0844734,
+    "source": "AC (ACM0)",
+    "length": 104,
+    "data_hex": "a50101217500006860660c0c002501002700002d00003500005c000007d000391202030708090b15171f21222427282a2b3031005e00006000000a8c00640000000000650000000000720000000000730100740600950000000000150000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945395.2828345,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230076000c7abb800c"
+},
+{
+    "timestamp": 1780945395.284765,
+    "source": "AC (ACM0)",
+    "length": 50,
+    "data_hex": "a501012176000032faf90c0c00a40000bd0000000000be0000000000bf0000000000c00000000000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945395.4831939,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230077000cd0ea800c"
+},
+{
+    "timestamp": 1780945395.4850717,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012177000017ce8f0c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945395.683584,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230078000cb513800c"
+},
+{
+    "timestamp": 1780945395.6853755,
+    "source": "AC (ACM0)",
+    "length": 77,
+    "data_hex": "a50101217800004d94fd0c0c000200000a2800030000087a000502000c00000d00000e0800110800120100df0000c900001700001e0102270000004f01480000220000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945395.8839383,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230079000c1f42800c"
+},
+{
+    "timestamp": 1780945395.8856652,
+    "source": "AC (ACM0)",
+    "length": 104,
+    "data_hex": "a5010121790000683d750c0c002501002700002d00003500005c000007d000391202030708090b15171f21222427282a2b3031005e00006000000a8c00640000000000650000000000720000001900730000740600950000000000150000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945396.084414,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007a000cf190800c"
+},
+{
+    "timestamp": 1780945396.0859604,
+    "source": "AC (ACM0)",
+    "length": 50,
+    "data_hex": "a50101217a000032ea4a0c0c00a40000bd0000000000be0000000000bf0000000000c00000000000fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945396.2847836,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007b000c5bc1800c"
+},
+{
+    "timestamp": 1780945396.2862656,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101217b0000170a170c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945396.4851415,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007c000c3c15800c"
+},
+{
+    "timestamp": 1780945396.486567,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101217c00001717fc0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945396.6855128,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007d000c9644800c"
+},
+{
+    "timestamp": 1780945396.6868656,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101217d00004496d70c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945396.8858612,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007e000c7896800c"
+},
+{
+    "timestamp": 1780945396.887166,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101217e000012c9500c0c00d700000000"
+},
+{
+    "timestamp": 1780945397.2866383,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123007f000cd2c7800c"
+},
+{
+    "timestamp": 1780945397.2877426,
+    "source": "AC (ACM0)",
+    "length": 21,
+    "data_hex": "a50101217f000015c54e0c0c000507007200000064"
+},
+{
+    "timestamp": 1780945398.088441,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230080000c8868800c"
+},
+{
+    "timestamp": 1780945398.0891569,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012180000012a20a0c0c00c000000030"
+},
+{
+    "timestamp": 1780945399.4923654,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a501012181000018d9160c0c000500007200000000007301"
+},
+{
+    "timestamp": 1780945399.4926484,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230081000c2239800c"
+},
+{
+    "timestamp": 1780945401.7981837,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218200001292b30c0c00c000000000"
+},
+{
+    "timestamp": 1780945401.898665,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230082000ccceb800c"
+},
+{
+    "timestamp": 1780945403.803741,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218300001284130c0c000100003800"
+},
+{
+    "timestamp": 1780945403.9039593,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230083000c66ba800c"
+},
+{
+    "timestamp": 1780945405.0069408,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230084000c016e800c"
+},
+{
+    "timestamp": 1780945405.007109,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a5010121840000421fb20c0c000101000200000a2800030000087a000500000c00000d00000e0800110800120100df0000c900001700001e0102270000004f014800"
+},
+{
+    "timestamp": 1780945405.2075524,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230085000cab3f800c"
+},
+{
+    "timestamp": 1780945405.2077277,
+    "source": "AC (ACM0)",
+    "length": 91,
+    "data_hex": "a50101218500005b5f9b0c0c002200002501002700002d000035000038010f005c000007d000391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000000006500000000007200000000007301007406"
+},
+{
+    "timestamp": 1780945405.408225,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a501012186000030fe0b0c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000000"
+},
+{
+    "timestamp": 1780945405.5083997,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230086000c45ed800c"
+},
+{
+    "timestamp": 1780945405.608719,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230087000cefbc800c"
+},
+{
+    "timestamp": 1780945405.6089275,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a50101218700001764800c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945405.8092742,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230088000c8a45800c"
+},
+{
+    "timestamp": 1780945405.809425,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a501012188000017fe7b0c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945406.009894,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a50101218900004423cf0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945406.0100439,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230089000c2014800c"
+},
+{
+    "timestamp": 1780945406.2104828,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218a000012ea950c0c00d700000000"
+},
+{
+    "timestamp": 1780945406.210818,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008a000ccec6800c"
+},
+{
+    "timestamp": 1780945407.6142154,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008b000c6497800c"
+},
+{
+    "timestamp": 1780945407.6144085,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101218b000012642a0c0c000c01001101"
+},
+{
+    "timestamp": 1780945418.7432241,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101218c000018e0400c0c0002000009c402270000004d"
+},
+{
+    "timestamp": 1780945418.7435594,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008c000c0343800c"
+},
+{
+    "timestamp": 1780945419.144237,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101218d000018dd060c0c0002000008fc022700000049"
+},
+{
+    "timestamp": 1780945419.1445346,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008d000ca912800c"
+},
+{
+    "timestamp": 1780945419.5452902,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101218e000018bf890c0c000200000898022700000048"
+},
+{
+    "timestamp": 1780945419.5455856,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008e000c47c0800c"
+},
+{
+    "timestamp": 1780945420.547447,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123008f000ced91800c"
+},
+{
+    "timestamp": 1780945420.5476255,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a50101218f00001839120c0c000200000834022700000046"
+},
+{
+    "timestamp": 1780945422.550956,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945422.5510368,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a501002300000012b4f6800c0264ffffffce"
+},
+{
+    "timestamp": 1780945425.1561332,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012190000012f78c0c0c00c000000027"
+},
+{
+    "timestamp": 1780945425.157749,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230090000c8c32800c"
+},
+{
+    "timestamp": 1780945434.4766378,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230091000c2663800c"
+},
+{
+    "timestamp": 1780945434.4767196,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012191000012a9a50c0c000c00001108"
+},
+{
+    "timestamp": 1780945453.0209963,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219200000ff27f0c0c003800"
+},
+{
+    "timestamp": 1780945453.021176,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230092000cc8b1800c"
+},
+{
+    "timestamp": 1780945453.6227582,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230093000c62e0800c"
+},
+{
+    "timestamp": 1780945453.6229355,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219300000fb51c0c0c001e00"
+},
+{
+    "timestamp": 1780945454.2244892,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230094000c0534800c"
+},
+{
+    "timestamp": 1780945454.225361,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219400000f14960c0c001e01"
+},
+{
+    "timestamp": 1780945454.9263344,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219500000fef940c0c001e00"
+},
+{
+    "timestamp": 1780945455.0259454,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230095000caf65800c"
+},
+{
+    "timestamp": 1780945455.9277587,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219600000fd2f10c0c001e01"
+},
+{
+    "timestamp": 1780945456.027799,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230096000c41b7800c"
+},
+{
+    "timestamp": 1780945456.7290947,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219700000f29f30c0c001e00"
+},
+{
+    "timestamp": 1780945456.829345,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230097000cebe6800c"
+},
+{
+    "timestamp": 1780945456.929541,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a501012198000012e45c0c0c006400000078"
+},
+{
+    "timestamp": 1780945457.0297883,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230098000c8e1f800c"
+},
+{
+    "timestamp": 1780945457.7311394,
+    "source": "AC (ACM0)",
+    "length": 15,
+    "data_hex": "a50101219900000f4aa50c0c001e01"
+},
+{
+    "timestamp": 1780945457.8314538,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50101230099000c244e800c"
+},
+{
+    "timestamp": 1780945459.5349255,
+    "source": "AC (ACM0)",
+    "length": 79,
+    "data_hex": "a50100210000004fa5d50a0a01636800017369001074636c5f41435f742a61705f737a6b740a700020625c66796844426d396b665c666f43566224455653422c7562554c566e5f3546736500000006"
+},
+{
+    "timestamp": 1780945459.835613,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a50100230000000c8dad800a"
+},
+{
+    "timestamp": 1780945460.337137,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101219a000012eace0c0c00c000000027"
+},
+{
+    "timestamp": 1780945460.53784,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123009a000cca9c800c"
+},
+{
+    "timestamp": 1780945460.738233,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123009b000c60cd800c"
+},
+{
+    "timestamp": 1780945460.7383153,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101219b000012f9030c0c0064000000b4"
+},
+{
+    "timestamp": 1780945461.3393905,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101219c000012b5750c0c00c000000000"
+},
+{
+    "timestamp": 1780945463.5434327,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101219d000012b6000c0c00c000000000"
+},
+{
+    "timestamp": 1780945463.7438002,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a50101219e000012d7790c0c00c000000024"
+},
+{
+    "timestamp": 1780945464.244812,
+    "source": "Dongle (ACM1)",
+    "length": 13,
+    "data_hex": "a50100210100000d68e6000001"
+},
+{
+    "timestamp": 1780945464.3450532,
+    "source": "AC (ACM0)",
+    "length": 207,
+    "data_hex": "a5010023000100cfdd68800001706b00106e6e326f6f61616373777a3675796930707300106e6e326f6f61616373777a36757969307673004b7b224d4355223a5b2241434d43552f56392d5241424d54323641432d46563030312e3030312e303332225d2c22534e223a223131313230315858585858585858585858585858585858227d737200036170707364001074636c5f41435f742a61705f737a6b7470770020625c66796844426d396b665c666f43566224455653422c7562554c566e5f35466d74000000c86d6c0000ffff"
+},
+{
+    "timestamp": 1780945464.545449,
+    "source": "AC (ACM0)",
+    "length": 36,
+    "data_hex": "a50101219f000024b88d0c0c0003000008980064000000fa00650000001300c000000024"
+},
+{
+    "timestamp": 1780945465.1467793,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210200000ec3e70b0b0100"
+},
+{
+    "timestamp": 1780945465.347065,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230002000cd90f800b"
+},
+{
+    "timestamp": 1780945465.5475528,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a5010121a000001870980c0c005c000007d000c000000000"
+},
+{
+    "timestamp": 1780945467.5530977,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121a10000129d6a0c0c00c000000024"
+},
+{
+    "timestamp": 1780945467.8538299,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210200000ec3e70b0b0100"
+},
+{
+    "timestamp": 1780945467.9551227,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230002000cd90f800b"
+},
+{
+    "timestamp": 1780945468.356,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121a200001298f50c0c00c000000024"
+},
+{
+    "timestamp": 1780945468.5567462,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a5010121a3000018684d0c0c00640000014a00650000001b"
+},
+{
+    "timestamp": 1780945469.3583193,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121a4000012f72d0c0c00c000000000"
+},
+{
+    "timestamp": 1780945469.8593495,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a5010123009f000ce9cb800c"
+},
+{
+    "timestamp": 1780945469.8594322,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a0000c80dc800c"
+},
+{
+    "timestamp": 1780945469.8594573,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a1000c2a8d800c"
+},
+{
+    "timestamp": 1780945469.8594773,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a2000cc45f800c"
+},
+{
+    "timestamp": 1780945469.859497,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a3000c6e0e800c"
+},
+{
+    "timestamp": 1780945469.859518,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a4000c09da800c"
+},
+{
+    "timestamp": 1780945471.2631996,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121a500001290be0c0c00c000000024"
+},
+{
+    "timestamp": 1780945471.363397,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a5000ca38b800c"
+},
+{
+    "timestamp": 1780945472.2659388,
+    "source": "AC (ACM0)",
+    "length": 30,
+    "data_hex": "a5010121a600001e89ea0c0c00640000019a00650000002200c000000024"
+},
+{
+    "timestamp": 1780945472.3661397,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a6000c4d59800c"
+},
+{
+    "timestamp": 1780945473.2687166,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121a7000012f2b20c0c00c000000000"
+},
+{
+    "timestamp": 1780945473.3690355,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a7000ce708800c"
+},
+{
+    "timestamp": 1780945475.2744513,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121a800001285b70c0c00c000000024"
+},
+{
+    "timestamp": 1780945475.274594,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a8000c82f1800c"
+},
+{
+    "timestamp": 1780945476.2771118,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300a9000c28a0800c"
+},
+{
+    "timestamp": 1780945476.277268,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a5010121a9000018f5490c0c0064000001e000c000000000"
+},
+{
+    "timestamp": 1780945478.4827914,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300aa000cc672800c"
+},
+{
+    "timestamp": 1780945478.4831142,
+    "source": "AC (ACM0)",
+    "length": 24,
+    "data_hex": "a5010121aa00001883a70c0c000300000898005c000007d0"
+},
+{
+    "timestamp": 1780945479.0839856,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ab000c6c23800c"
+},
+{
+    "timestamp": 1780945479.0840943,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121ab00001280280c0c00c000000024"
+},
+{
+    "timestamp": 1780945479.284346,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ac000c0bf7800c"
+},
+{
+    "timestamp": 1780945479.284433,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121ac00001288630c0c00c000000024"
+},
+{
+    "timestamp": 1780945480.0859036,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ad000ca1a6800c"
+},
+{
+    "timestamp": 1780945480.0864153,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121ad0000128eed0c0c006400000186"
+},
+{
+    "timestamp": 1780945480.2863047,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ae000c4f74800c"
+},
+{
+    "timestamp": 1780945480.2867289,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121ae000012ea6f0c0c00c000000000"
+},
+{
+    "timestamp": 1780945482.289962,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000127740810c000000000002"
+},
+{
+    "timestamp": 1780945482.2900498,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945483.0914207,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300af000ce525800c"
+},
+{
+    "timestamp": 1780945483.0915127,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121af0000128dfc0c0c00c000000024"
+},
+{
+    "timestamp": 1780945483.29179,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b0000c8486800c"
+},
+{
+    "timestamp": 1780945483.291882,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b0000012a94f0c0c00c000000024"
+},
+{
+    "timestamp": 1780945483.8932505,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b1000c2ed7800c"
+},
+{
+    "timestamp": 1780945483.8934274,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b1000012f1140c0c0064000001f4"
+},
+{
+    "timestamp": 1780945484.1946611,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b2000012cb430c0c00c000000000"
+},
+{
+    "timestamp": 1780945484.2943275,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b2000cc005800c"
+},
+{
+    "timestamp": 1780945486.7989047,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b3000012acd00c0c00c000000024"
+},
+{
+    "timestamp": 1780945486.8991952,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b3000c6a54800c"
+},
+{
+    "timestamp": 1780945487.1996243,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b4000012a49b0c0c00c000000024"
+},
+{
+    "timestamp": 1780945487.1997294,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b4000c0d80800c"
+},
+{
+    "timestamp": 1780945487.800666,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b500001236ca0c0c00640000028a"
+},
+{
+    "timestamp": 1780945487.8007538,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b5000ca7d1800c"
+},
+{
+    "timestamp": 1780945488.2014053,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b6000012c6970c0c00c000000000"
+},
+{
+    "timestamp": 1780945488.3017206,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b6000c4903800c"
+},
+{
+    "timestamp": 1780945490.6067348,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b7000012a1040c0c00c000000024"
+},
+{
+    "timestamp": 1780945490.607094,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b7000ce352800c"
+},
+{
+    "timestamp": 1780945491.2085376,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b8000c86ab800c"
+},
+{
+    "timestamp": 1780945491.2086923,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b8000012b2e70c0c00c000000024"
+},
+{
+    "timestamp": 1780945491.6096222,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300b9000c2cfa800c"
+},
+{
+    "timestamp": 1780945491.6097808,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121b900001251b20c0c006400000316"
+},
+{
+    "timestamp": 1780945492.2113678,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121ba000012d0eb0c0c00c000000000"
+},
+{
+    "timestamp": 1780945493.4147043,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ba000cc228800c"
+},
+{
+    "timestamp": 1780945494.617468,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300bb000c6879800c"
+},
+{
+    "timestamp": 1780945494.6175566,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121bb000012b7780c0c00c000000024"
+},
+{
+    "timestamp": 1780945495.2185767,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300bc000c0fad800c"
+},
+{
+    "timestamp": 1780945495.2186775,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121bc000012bf330c0c00c000000024"
+},
+{
+    "timestamp": 1780945495.6193192,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300bd000ca5fc800c"
+},
+{
+    "timestamp": 1780945495.619418,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121bd000012ff9d0c0c006400000384"
+},
+{
+    "timestamp": 1780945496.2204504,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300be000c4b2e800c"
+},
+{
+    "timestamp": 1780945496.2205496,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121be000012dd3f0c0c00c000000000"
+},
+{
+    "timestamp": 1780945498.3242908,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121bf000012baac0c0c00c000000024"
+},
+{
+    "timestamp": 1780945498.4245865,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300bf000ce17f800c"
+},
+{
+    "timestamp": 1780945499.1257863,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121c00000122dff0c0c00c000000024"
+},
+{
+    "timestamp": 1780945499.2262206,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c0000c9900800c"
+},
+{
+    "timestamp": 1780945499.426675,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210300000ef2770b0b0301"
+},
+{
+    "timestamp": 1780945499.5267217,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230003000c735e800b"
+},
+{
+    "timestamp": 1780945500.1283474,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121c10000124a6c0c0c00c000000000"
+},
+{
+    "timestamp": 1780945500.2287393,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c1000c3351800c"
+},
+{
+    "timestamp": 1780945501.4321003,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210400000e356f0b0b0301"
+},
+{
+    "timestamp": 1780945501.5325472,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230004000c148a800b"
+},
+{
+    "timestamp": 1780945502.3347156,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121c20000122b150c0c00c000000024"
+},
+{
+    "timestamp": 1780945502.4348552,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c2000cdd83800c"
+},
+{
+    "timestamp": 1780945502.4349387,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50100210500000e32380b0b0305"
+},
+{
+    "timestamp": 1780945502.5354,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100230005000cbedb800b"
+},
+{
+    "timestamp": 1780945502.7356448,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c3000c77d2800c"
+},
+{
+    "timestamp": 1780945502.7359364,
+    "source": "AC (ACM0)",
+    "length": 72,
+    "data_hex": "a5010121c3000048b54e0c0c0001010002000008340003000008a2000500000c00000d00000e0800110800120100df0000c900001700001e0102270000004601480000c000000024"
+},
+{
+    "timestamp": 1780945502.9361968,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c4000c1006800c"
+},
+{
+    "timestamp": 1780945502.9365246,
+    "source": "AC (ACM0)",
+    "length": 99,
+    "data_hex": "a5010121c40000638f300c0c002200002501002700002d00003500005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c00640000038400650000002400720000000000730100740600950000000000c000000024"
+},
+{
+    "timestamp": 1780945503.136803,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c5000cba57800c"
+},
+{
+    "timestamp": 1780945503.1370115,
+    "source": "AC (ACM0)",
+    "length": 42,
+    "data_hex": "a5010121c500002ac81a0c0c00150000a40000bd0000000000be0000000000bf0000000000c000000024"
+},
+{
+    "timestamp": 1780945503.337343,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c6000c5485800c"
+},
+{
+    "timestamp": 1780945503.3374877,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a5010121c60000170c660c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945503.5378458,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c7000cfed4800c"
+},
+{
+    "timestamp": 1780945503.5379832,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a5010121c700001773c10c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945503.6381726,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a5010021060000117ff715156a27125e03"
+},
+{
+    "timestamp": 1780945503.7384105,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c8000c9b2d800c"
+},
+{
+    "timestamp": 1780945503.7385492,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a5010121c80000445cec0c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945503.9389186,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300c9000c317c800c"
+},
+{
+    "timestamp": 1780945503.9390697,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121c9000012324a0c0c00d700000000"
+},
+{
+    "timestamp": 1780945505.5421972,
+    "source": "Dongle (ACM1)",
+    "length": 14,
+    "data_hex": "a50101210700000eca220b0bffff"
+},
+{
+    "timestamp": 1780945505.742844,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230007000cbd8b800b"
+},
+{
+    "timestamp": 1780945505.9429388,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ca000cdfae800c"
+},
+{
+    "timestamp": 1780945505.9431546,
+    "source": "AC (ACM0)",
+    "length": 66,
+    "data_hex": "a5010121ca000042d6290c0c0001010002000008340003000008a2000500000c00000d00000e0800110800120100df0000c902001700001e01022700000046014800"
+},
+{
+    "timestamp": 1780945506.1432953,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300cb000c75ff800c"
+},
+{
+    "timestamp": 1780945506.14351,
+    "source": "AC (ACM0)",
+    "length": 90,
+    "data_hex": "a5010121cb00005a21ac0c0c002200002501002700002d00003500003800005c0000076c00391202030708090b15171f21222427282a2b3031005e00006000000a8c006400000384006500000024007200000000007301007406"
+},
+{
+    "timestamp": 1780945506.343639,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300cc000c122b800c"
+},
+{
+    "timestamp": 1780945506.3438501,
+    "source": "AC (ACM0)",
+    "length": 48,
+    "data_hex": "a5010121cc000030c3860c0c00950000000000150000a40000bd0000000000be0000000000bf0000000000c000000024"
+},
+{
+    "timestamp": 1780945506.5440116,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300cd000cb87a800c"
+},
+{
+    "timestamp": 1780945506.5441086,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a5010121cd000017ba500c0c00fa00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945506.7443888,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300ce000c56a8800c"
+},
+{
+    "timestamp": 1780945506.7444856,
+    "source": "AC (ACM0)",
+    "length": 23,
+    "data_hex": "a5010121ce000017e4330c0c00fb00073b3b3b3b3b3b3b"
+},
+{
+    "timestamp": 1780945506.9447796,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300cf000cfcf9800c"
+},
+{
+    "timestamp": 1780945506.9448984,
+    "source": "AC (ACM0)",
+    "length": 68,
+    "data_hex": "a5010121cf0000442fd90c0c014700022001022100000640022200000c1c022300013b022400022500007b00008401008c0000004600a00000d10000d40000d50000d600"
+},
+{
+    "timestamp": 1780945507.1451616,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300d0000c9d5a800c"
+},
+{
+    "timestamp": 1780945507.1452594,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121d00000121dc70c0c00d700000000"
+},
+{
+    "timestamp": 1780945512.0562043,
+    "source": "Dongle (ACM1)",
+    "length": 15,
+    "data_hex": "a50101210800000fa4ba0a0a000100"
+},
+{
+    "timestamp": 1780945512.0563548,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50101230008000cc853800a"
+},
+{
+    "timestamp": 1780945512.25679,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121d100001268e90c0c000100003800"
+},
+{
+    "timestamp": 1780945512.3569925,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300d1000c370b800c"
+},
+{
+    "timestamp": 1780945512.4573298,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cbf782626"
+},
+{
+    "timestamp": 1780945512.6579018,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000c46de1010"
+},
+{
+    "timestamp": 1780945512.758276,
+    "source": "Dongle (ACM1)",
+    "length": 17,
+    "data_hex": "a50100230000001181fe80106a27126803"
+},
+{
+    "timestamp": 1780945512.8585792,
+    "source": "AC (ACM0)",
+    "length": 12,
+    "data_hex": "a50100210000000cd37d0c0c"
+},
+{
+    "timestamp": 1780945512.9590678,
+    "source": "Dongle (ACM1)",
+    "length": 18,
+    "data_hex": "a5010023000000128495800c0264ffffffcd"
+},
+{
+    "timestamp": 1780945514.8698876,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121d2000012590f0c0c00640000033e"
+},
+{
+    "timestamp": 1780945514.9645565,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300d2000cd9d9800c"
+},
+{
+    "timestamp": 1780945517.670735,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300d3000c7388800c"
+},
+{
+    "timestamp": 1780945517.678747,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121d30000127bd60c0c00c000000000"
+},
+{
+    "timestamp": 1780945518.6724732,
+    "source": "Dongle (ACM1)",
+    "length": 12,
+    "data_hex": "a501012300d4000c145c800c"
+},
+{
+    "timestamp": 1780945518.6801903,
+    "source": "AC (ACM0)",
+    "length": 18,
+    "data_hex": "a5010121d40000127aae0c0c006500000000"
+}
+]
