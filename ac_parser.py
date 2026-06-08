@@ -28,7 +28,7 @@ PROPERTIES = {
     0x000D: ("Horiz Motor Status", 1, {0: "Stopped", 1: "Moving"}),
     0x003D: ("Energy/Electricity", 4, lambda val: f"{val} (Raw Unit)"),      # DP127
     0x005C: ("Indoor Fan Speed", 4, lambda val: f"{val} RPM"),               # Confirmed Telemetry
-    0x0060: ("Compressor Internal Freq", 4, lambda val: f"{val} Hz"),
+    0x0060: ("Outdoor Temp", 4, lambda val: f"{val / 100.0}°C"),
     0x0064: ("Outdoor Fan Speed", 4, lambda val: f"{val} RPM"),              # DP117
     0x0065: ("Runtime Counter", 4, lambda val: f"{val} (Min/Ticks)"),
     0x00A4: ("Filter Health", 4, lambda val: f"{val}%"),
@@ -56,6 +56,19 @@ def calculate_crc16_xmodem(data: bytes) -> int:
     return crc
 
 # --- 3. Payload Decoder ---
+# Load schema map for dynamic type and length resolution
+SCHEMA_FILE = os.path.join(os.path.dirname(__file__), "thing_data_cfg_e1k5wioo_map_postable_v1.json")
+SCHEMA_MAP = {}
+if os.path.exists(SCHEMA_FILE):
+    with open(SCHEMA_FILE, 'r') as f:
+        schema_data = json.load(f)
+        for record in schema_data.get("records", []):
+            internal_id = int(record["internal_id_hex"], 16)
+            SCHEMA_MAP[internal_id] = {
+                "code": record["schema_code"],
+                "type": record["property_type"]
+            }
+
 def decode_payload(payload_bytes):
     idx = 0
     decoded_items = []
@@ -67,25 +80,76 @@ def decode_payload(payload_bytes):
         prop_id = int.from_bytes(payload_bytes[idx:idx+2], byteorder='big')
         idx += 2
         
-        if prop_id in PROPERTIES:
-            name, length, decoder = PROPERTIES[prop_id]
-            if idx + length > len(payload_bytes):
-                decoded_items.append(f"  - [{hex(prop_id)}] {name}: Incomplete Data")
-                break
-                
-            raw_val = int.from_bytes(payload_bytes[idx:idx+length], byteorder='big')
-            idx += length
+        prop_type = None
+        code = f"Unknown"
+        
+        if prop_id in SCHEMA_MAP:
+            code = SCHEMA_MAP[prop_id]["code"]
+            prop_type = SCHEMA_MAP[prop_id]["type"]
             
-            if isinstance(decoder, dict):
-                val_str = decoder.get(raw_val, f"UNKNOWN_STATE ({hex(raw_val)})")
-            else:
-                val_str = decoder(raw_val)
+        name = f"[{hex(prop_id)}] {code}"
+        decoder = None
+        length = None
+        
+        if prop_id in PROPERTIES:
+            p_name, p_length, p_decoder = PROPERTIES[prop_id]
+            name = f"[{hex(prop_id)}] {p_name} ({code})" if code != "Unknown" else f"[{hex(prop_id)}] {p_name}"
+            decoder = p_decoder
+            if not prop_type:
+                length = p_length
                 
-            decoded_items.append(f"  - {name}: {val_str}")
-        else:
+        # Determine length based on schema type
+        if prop_type in ("bool", "enum"):
+            length = 1
+        elif prop_type == "value":
+            length = 4
+        elif prop_type == "string":
+            if idx + 2 > len(payload_bytes):
+                break
+            length = int.from_bytes(payload_bytes[idx:idx+2], byteorder='big')
+            idx += 2
+        elif prop_type == "raw":
+            if idx + 1 > len(payload_bytes):
+                break
+            length = payload_bytes[idx]
+            idx += 1
+            
+        # Hardcoded lengths for internal/reserved fields found in real captures
+        if prop_id == 0x0095 and length is None:
+            length = 4
+        if prop_id == 0x0074 and length is None:
+            length = 1
+        if prop_id == 0x0072 and length is None:
+            length = 4
+            
+        if length is None:
             remaining = payload_bytes[idx:].hex()
-            decoded_items.append(f"  - [?] UNKNOWN DP ({hex(prop_id)}). Remaining: {remaining}")
+            decoded_items.append(f"  - {name}: UNKNOWN TYPE/LENGTH. Remaining: {remaining}")
             break
+            
+        if idx + length > len(payload_bytes):
+            decoded_items.append(f"  - {name}: Incomplete Data")
+            break
+            
+        raw_val_bytes = payload_bytes[idx:idx+length]
+        idx += length
+        raw_val = int.from_bytes(raw_val_bytes, byteorder='big')
+        
+        if decoder:
+            try:
+                if isinstance(decoder, dict):
+                    val_str = decoder.get(raw_val, f"UNKNOWN_STATE ({hex(raw_val)})")
+                else:
+                    val_str = decoder(raw_val)
+            except Exception:
+                val_str = f"Decode Error ({raw_val})"
+        else:
+            if prop_type in ("string", "raw"):
+                val_str = raw_val_bytes.hex()
+            else:
+                val_str = str(raw_val)
+                
+        decoded_items.append(f"  - {name}: {val_str}")
             
     return decoded_items
 
