@@ -8,10 +8,10 @@ PROPERTIES = {
     # --- COMMANDS (Writable) ---
     0x0001: ("Power", 1, {0: "Off", 1: "On"}),
     0x0002: ("Target Temp", 4, lambda val: f"{val / 100.0}°C"),
-    0x0005: ("Fan Speed Mode", 2, {0x0000: "Auto", 0x0100: "Lowest", 0x0200: "Low", 0x0300: "Mid-Low", 0x0400: "Mid", 0x0500: "Mid-High", 0x0600: "High", 0x0700: "Turbo"}),
+    0x0005: ("Fan Speed Mode", 1, {0x00: "Auto", 0x01: "Lowest", 0x02: "Low", 0x03: "Mid-Low", 0x04: "Mid", 0x05: "Mid-High", 0x06: "High", 0x07: "Turbo"}),
     0x000E: ("Horizontal Swing", 1, {1: "Auto L/R", 2: "Flow Left", 3: "Flow Middle", 4: "Flow Right", 9: "Fix Left", 10: "Fix Mid-Left", 11: "Fix Middle", 12: "Fix Mid-Right", 13: "Fix Right"}),
     0x0011: ("Vertical Swing", 1, {1: "Auto Up/Down", 2: "Flow Up", 3: "Flow Down", 9: "Fix Above", 10: "Fix Mid-High", 11: "Fix Middle", 12: "Fix Mid-Low", 13: "Fix Down"}),
-    0x0012: ("AC Mode", 2, {0x0000: "Auto", 0x0100: "Cool", 0x0200: "Dry", 0x0300: "Fan", 0x0400: "Heat"}),
+    0x0012: ("AC Mode", 1, {0x00: "Auto", 0x01: "Cool", 0x02: "Dry", 0x03: "Fan", 0x04: "Heat"}),
     0x0015: ("Health/Ionizer Mode", 1, {0: "Off", 1: "On"}),
     0x001E: ("Display Light", 1, {0: "Off", 1: "On"}),
     0x0022: ("Sleep Mode", 1, {0: "Off", 1: "Standard", 2: "Aged", 3: "Child"}),
@@ -178,8 +178,8 @@ def parse_pcap_json(filepath_or_data):
         b = bytes.fromhex(raw_hex)
         crc_status = "N/A"
         
-        # Verify A5 Frame and extract CRC (Bytes 8 & 9)
-        if b.startswith(b'\xa5') and len(b) >= 10:
+        # Verify A5 Frame and extract header fields
+        if b.startswith(b'\xa5') and len(b) >= 12:
             received_crc = b[8:10].hex().upper()
             
             # Splice bytes: everything before CRC + everything after CRC
@@ -189,39 +189,41 @@ def parse_pcap_json(filepath_or_data):
             
             crc_status = "OK " if received_crc == calc_crc_hex else "ERR"
 
-        # Separate Header (0-9) from Payload (10+)
-        if len(b) > 10:
-            payload = b[10:]
+            # Parse explicitly requested header fields
+            a5_header = b[0:3].hex()
+            frame_class = hex(b[3])
+            seq_status = b[4:6].hex()
+            pkt_len = int.from_bytes(b[6:8], byteorder='big')
+            cmd_resp = b[10:12].hex()
+            
+            hdr_str = f"[A5:{a5_header[:2]} Class:{frame_class} Seq:{seq_status} L:{pkt_len} Cmd:{cmd_resp}]"
+            
+            payload = b[12:]
             
             # Detect JSON/String embedded configs
-            json_match = re.search(b'\{.*\}', payload)
+            json_match = re.search(b'\\{.*\\}', payload)
             
-            # Detect generic Keep-Alive/ACK markers (usually 2 duplicated bytes at start)
-            if len(payload) == 2 and (payload[0] == payload[1] or payload.startswith(b'\x80')):
-                print(f"{timestamp:<15} | {source:<14} | {crc_status} | {length:<3} | [Keep-Alive / ACK: {payload.hex()}]")
-                print("-" * 95)
-                continue
-                
-            print(f"{timestamp:<15} | {source:<14} | {crc_status} | {length:<3} | [Raw Payload: {payload.hex()}]")
-            
-            if json_match:
-                try:
-                    config_str = json_match.group(0).decode('utf-8')
-                    print(f"{' ':<42}- MCU Config: {config_str}")
-                except Exception:
-                    pass
+            if len(payload) == 0:
+                print(f"{timestamp:<15} | {source:<14} | {crc_status} | {length:<3} | {hdr_str} [Keep-Alive / ACK]")
             else:
-                # Strip 2-byte marker if it looks like a standard DP payload marker (e.g., 0A0A, 0C0C, 0B0B)
-                if len(payload) > 2 and payload[0] == payload[1]:
-                    dp_payload = payload[2:]
-                else:
-                    dp_payload = payload
+                print(f"{timestamp:<15} | {source:<14} | {crc_status} | {length:<3} | {hdr_str} [Payload: {payload.hex()}]")
                 
-                results = decode_payload(dp_payload)
-                for res in results:
-                    print(f"{' ':<42}{res}")
+                if json_match:
+                    try:
+                        config_str = json_match.group(0).decode('utf-8')
+                        print(f"{' ':<42}- MCU Config: {config_str}")
+                    except Exception:
+                        pass
+                else:
+                    results = decode_payload(payload)
+                    for res in results:
+                        print(f"{' ':<42}{res}")
         else:
-            print(f"{timestamp:<15} | {source:<14} | {crc_status} | {length:<3} | [Malformed/Short Packet]")
+            # Detect generic Keep-Alive/ACK markers outside of full A5 frame (if any)
+            if len(b) == 2 and (b[0] == b[1] or b.startswith(b'\x80')):
+                print(f"{timestamp:<15} | {source:<14} | N/A | {length:<3} | [Keep-Alive / ACK: {b.hex()}]")
+            else:
+                print(f"{timestamp:<15} | {source:<14} | N/A | {length:<3} | [Malformed/Short/Raw Packet: {b.hex()}]")
         
         print("-" * 95)
 
